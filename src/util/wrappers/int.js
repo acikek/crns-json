@@ -1,0 +1,1 @@
+module.exports = str => isNaN(+str) ? str.toUpperCase() : +str;
