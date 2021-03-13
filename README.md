@@ -2,6 +2,12 @@
 
 Efficient and lightweight parsing and conversion between JSON and CRNS (`.chase`) files.
 
+## Installation
+
+```sh
+npm install --save crns-json
+```
+
 ## Example
 
 ```js
